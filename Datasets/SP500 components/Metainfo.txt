@@ -1,4 +1,3 @@
-
 Dataset Name: "SP 500 components"
 
 Description: "Daily data for the components of SP500 index."
