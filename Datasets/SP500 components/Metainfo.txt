@@ -15,7 +15,7 @@ Updated by: "Daniel Traian Pele"
 
 Source: "Scrapped from Yahoo Finance"
 
-Code: "If applicable, the code used to get the data (a link to Github repository). N/A if not the case."
+Code: "https://github.com/danpele/AI4EFin/tree/19b8264c1b41af2d31bad291e1ae5098c44f210d/Code/SP500"
 
 Data frequency: "Daily"
 
