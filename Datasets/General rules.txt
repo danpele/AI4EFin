@@ -1,4 +1,4 @@
-Each dataset must be in a separate folder and the name of the folder should match the name of dataset.
+Each dataset must be in a separate folder.
 Each folder should contain a Metainfo.txt file, describing the dataset. 
 The structure of the Metainfo.txt file is the following:
 
