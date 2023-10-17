@@ -1,1 +1,12 @@
+Name of Quantlet: SP500 components  
+
+Published in: AI4EFin
+
+Description: 'Performes web scrapping for components of SP500 and saves the data as CSV file.'
+
+Keywords: Yahoo Finance, scrapping, SP500
+ 
+Author: Daniel Traian Pele
+
+Submitted: 2023-10-17
 
