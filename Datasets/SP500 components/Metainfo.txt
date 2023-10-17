@@ -1,1 +1,46 @@
 
+Dataset Name: "SP 500 components"
+
+Description: "Daily data for the components of SP500 index."
+
+Keywords: "SP500, stock market"
+
+Version: "N/A"
+
+Date Created: "2023-10-17"
+
+Last Updated: "2023-10-17"
+
+Updated by: "Daniel Traian Pele"
+
+Source: "Scrapped from Yahoo Finance"
+
+Code: "If applicable, the code used to get the data (a link to Github repository). N/A if not the case."
+
+Data frequency: "Daily"
+
+Timeframe: "2023-1-1 : 2023-6-30"
+
+Features: "
+Date: Transaction day
+Open	High	Low	Close: Transaction prices
+Volume: Traded Volume
+Dividends: Dividends paid
+Stock Splits: Stock Splits Ratio
+Name: Company Name
+Symbol: Ticker
+Adj Close: Adjusted Close Price"
+
+Format: "CSV"
+
+Usage Rights: "Open source, free to use."
+
+Possible Uses: "Statistical analysis at company level."
+
+Contact: "N/A"
+
+Additional Resources: N/A"
+
+Notes: "N/A"
+
+
