@@ -21,17 +21,17 @@ Data frequency: "Minutes"
 Timeframe: "2018-1-1 : 2023-11-18"
 
 Features: "
-Data: Date of the recorded observation, in format mm/dd/yyyy  h:m:s PM/AM
+Data: Date of the recorded observation, in format mm/dd/yyyy  hh:mm:ss AM/PM
 carbune: Energy production, coal, in MW
 consum: Total energy consumption, in MW
 hidro: Energy production, hydro, in MW
-hidrocarburi: Energy production, hydro, in MW
-nuclear: Energy production, hydro, in MW
-eolian: Energy production, hydro, in MW
+hidrocarburi: Energy production, hydrocarbon, in MW
+nuclear: Energy production, nuclear, in MW
+eolian: Energy production, wind, in MW
 productie: Total energy production, in MW
-fotovolt: Energy production, hydro, in MW
-biomasa: Energy production, hydro, in MW
-sold: Energy production, hydro, in MW"
+fotovolt: Energy production, photovoltaic, in MW
+biomasa: Energy production, biomass, in MW
+sold: Energy balance, in MW"
 
 Format: "CSV"
 
@@ -43,6 +43,7 @@ Contact: "N/A"
 
 Additional Resources: N/A"
 
-Notes: "N/A"
+Notes: "Negative balance values mean export.
+      Time stamp is not continous, pay attention in modelling."
 
 
