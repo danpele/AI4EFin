@@ -1,1 +1,48 @@
+Dataset Name: "RO Energy Production"
+
+Description: "Data regarding consumption and production of energy in Romania."
+
+Keywords: "Romania, Energy, Production, Consumption"
+
+Version: "N/A"
+
+Date Created: "2023-11-19"
+
+Last Updated: "2023-101-19"
+
+Updated by: "Daniel Traian Pele"
+
+Source: "https://sistemulenergetic.ro/"
+
+Code: N/A"
+
+Data frequency: "Minutes"
+
+Timeframe: "2018-1-1 : 2023-11-18"
+
+Features: "
+Data: Date of the recorded observation, in format mm/dd/yyyy  h:m:s PM/AM
+carbune: Energy production, coal, in MW
+consum: Total energy consumption, in MW
+hidro: Energy production, hydro, in MW
+hidrocarburi: Energy production, hydro, in MW
+nuclear: Energy production, hydro, in MW
+eolian: Energy production, hydro, in MW
+productie: Total energy production, in MW
+fotovolt: Energy production, hydro, in MW
+biomasa: Energy production, hydro, in MW
+sold: Energy production, hydro, in MW"
+
+Format: "CSV"
+
+Usage Rights: "Open source, free to use."
+
+Possible Uses: "Forecasting models for consumption and energy production."
+
+Contact: "N/A"
+
+Additional Resources: N/A"
+
+Notes: "N/A"
+
 
