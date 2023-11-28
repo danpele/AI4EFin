@@ -1,7 +1,5 @@
 In progress
 
-#Model:
-
 Dataset Name: FR Energy Production" #the original file had 45 MB, but GitHub only allows files up to 25 MB
                                     #so the data was split in two files, roughly the same sizes                     
 
