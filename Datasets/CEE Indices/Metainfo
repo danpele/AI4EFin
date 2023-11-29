@@ -1,1 +1,37 @@
-Work in progress
+Dataset Name: "CEE stock indices"
+
+Description: "Data regarding the main stock indices from 5 CEE countries."
+
+Keywords: "Romania, Hungary, Poland, Bulgaria, Czechia"
+
+Version: "N/A"
+
+Date Created: "2023-11-29"
+
+Last Updated: "2023-11-29"
+
+Updated by: "Robet-Adrian Grecu"
+
+Source: https://eikon.refinitiv.com/ (Thomson Reuters)
+
+Code: N/A"
+
+Data frequency: "Daily"
+
+Timeframe: "2010-1-4 : 2023-10-13"
+
+Features: "
+Data: Date of the recorded observation
+BET: BET Index - close of the day price, in points
+
+Format: "CSV"
+
+Usage Rights: "Open source, free to use."
+
+Possible Uses: "Determining the link between the energy market and the capital market"
+
+Contact: "N/A"
+
+Additional Resources: N/A"
+
+Notes: „For some countries could be days when there was not trading activity, that’s why the data could be not available for them”
