@@ -21,7 +21,7 @@ Data frequency: "Daily"
 Timeframe: "2010-1-4 : 2023-10-13"
 
 Features: "
-Data: Date of the recorded observation
+Data: Date of the recorded observation in format dd.mm.aaaa
 BET: BET Index - close of the day price, in points
 
 Format: "CSV"
