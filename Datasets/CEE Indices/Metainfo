@@ -22,7 +22,23 @@ Timeframe: "2010-1-4 : 2023-10-13"
 
 Features: "
 Data: Date of the recorded observation in format dd.mm.aaaa
-BET: BET Index - close of the day price, in points
+BET: BET Index - close of the day price, in points - Romania
+BET-NG: BET-NG Index - close of the day price, in points - Romania
+BET-FI: BET-FI Index - close of the day price, in points - Romania
+PX: PX Index - close of the day price, in points - Czechia
+SOFIX: SOFIX Index - close of the day price, in points - Bulgaria
+BG_REIT: BG REIT Index - close of the day price, in points - Bulgaria
+BUX: BUX Index - close of the day price, in points - Hungary
+BUMIX: BUMIX Index - close of the day price, in points - Hungary
+WIG: WIG Index - close of the day price, in points - Poland
+WIG IT: WIG IT Index - close of the day price, in points - Poland
+WIG ENERGY: WIG ENERGY Index - close of the day price, in points - Poland
+WIG OIL&GAS: WIG OIL&GAS Index - close of the day price, in points - Poland
+WIG FOOD: WIG FOOD Index - close of the day price, in points - Poland
+WIG CONSTRUCTION: WIG CONSTRUCTION Index - close of the day price, in points - Poland
+WIG BANKS: WIG BANKS Index - close of the day price, in points - Poland
+WIG MEDIA: WIG MEDIA Index - close of the day price, in points - Poland
+WIG CHEMICALS: WIG IT Index - close of the day price, in points - Poland
 
 Format: "CSV"
 
