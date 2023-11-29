@@ -1,1 +1,57 @@
-In progress
+Dataset Name: FR Energy Production" #the original file had 45 MB, but GitHub only allows files up to 25 MB
+                                    #so the data was split in two files, roughly the same sizes                     
+
+Description: "Quarter hour data for the French electricity production and demand"
+
+Keywords: "France electricity", "eco2mix", 
+
+Version: "N/A"
+
+Date Created: "2023-11-28"
+
+Last Updated: "2023-11-28"
+
+Updated by: "Alexandru-Victor Andrei"
+
+Source: "Downloaded from the French eco2mix Opendata website"
+
+Code: "https://odre.opendatasoft.com/explore/dataset/eco2mix-national-cons-def/table/?disjunctive.nature&sort=-date_heure"
+
+Data frequency: "Quarter hour"
+
+Timeframe: "Jan 2012 : May 2022"
+
+Features: "
+Périmètre: here only one value that is France
+Date
+Heure: Hour
+Date et Heure
+Consommation (MW)
+Prévision J-1 (MW)
+Prévision J (MW)
+Fioul (MW)
+Charbon (MW)
+Gaz - TAC (MW)
+Gaz - Cogénération (MW)
+Gaz - CCG (MW)
+Gaz - Autres (MW)
+Hydraulique - Fil de l'eau + éclusée (MW)
+Hydraulique - Lacs (MW)
+Hydraulique - STEP turbinage (MW)
+Bioénergies - Déchets (MW)
+Bioénergies - Biomasse (MW)
+Bioénergies - Biogaz (MW)
+...
+"
+
+Format: "CSV"
+
+Usage Rights: "Open source, free to use."
+
+Possible Uses: "Statistical analysis at company level."
+
+Contact: "N/A"
+
+Additional Resources: N/A"
+
+Notes: "N/A"
