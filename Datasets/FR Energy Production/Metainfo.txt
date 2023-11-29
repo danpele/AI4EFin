@@ -1,5 +1,3 @@
-In progress
-
 Dataset Name: FR Energy Production" #the original file had 45 MB, but GitHub only allows files up to 25 MB
                                     #so the data was split in two files, roughly the same sizes                     
 
@@ -24,7 +22,26 @@ Data frequency: "Quarter hour"
 Timeframe: "Jan 2012 : May 2022"
 
 Features: "
-Variables: in progress
+Périmètre: here only one value that is France
+Date
+Heure: Hour
+Date et Heure
+Consommation (MW)
+Prévision J-1 (MW)
+Prévision J (MW)
+Fioul (MW)
+Charbon (MW)
+Gaz - TAC (MW)
+Gaz - Cogénération (MW)
+Gaz - CCG (MW)
+Gaz - Autres (MW)
+Hydraulique - Fil de l'eau + éclusée (MW)
+Hydraulique - Lacs (MW)
+Hydraulique - STEP turbinage (MW)
+Bioénergies - Déchets (MW)
+Bioénergies - Biomasse (MW)
+Bioénergies - Biogaz (MW)
+...
 "
 
 Format: "CSV"
