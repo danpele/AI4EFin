@@ -1,1 +1,53 @@
-Work in progress
+Dataset Name: "CEE stock indices"
+
+Description: "Data regarding the main stock indices from 5 CEE countries."
+
+Keywords: "Romania, Hungary, Poland, Bulgaria, Czechia"
+
+Version: "N/A"
+
+Date Created: "2023-11-30"
+
+Last Updated: "2023-11-30"
+
+Updated by: "Robet-Adrian Grecu"
+
+Source: https://eikon.refinitiv.com/ (Thomson Reuters)
+
+Code: N/A"
+
+Data frequency: "Monthly"
+
+Timeframe: "2010-1-1 : 2023-9-1"
+
+Features: "
+Data: Date of the recorded observation in format dd.mm.aaaa
+BET: BET Index - close price for the last day of the month, in points - Romania
+BET-NG: BET-NG Index - close price for the last day of the month, in points - Romania
+BET-FI: BET-FI Index - close price for the last day of the month, in points - Romania
+PX: PX Index - close price for the last day of the month, in points - Czechia
+SOFIX: SOFIX Index - close price for the last day of the month, in points - Bulgaria
+BG_REIT: BG REIT Index - close price for the last day of the month, in points - Bulgaria
+BUX: BUX Index - close price for the last day of the month, in points - Hungary
+BUMIX: BUMIX Index - close price for the last day of the month, in points - Hungary
+WIG: WIG Index - close price for the last day of the month, in points - Poland
+WIG IT: WIG IT Index - close price for the last day of the month, in points - Poland
+WIG ENERGY: WIG ENERGY Index - close price for the last day of the month, in points - Poland
+WIG OIL&GAS: WIG OIL&GAS Index - close price for the last day of the month, in points - Poland
+WIG FOOD: WIG FOOD Index - close price for the last day of the month, in points - Poland
+WIG CONSTRUCTION: WIG CONSTRUCTION Index - close price for the last day of the month, in points - Poland
+WIG BANKS: WIG BANKS Index - close price for the last day of the month, in points - Poland
+WIG MEDIA: WIG MEDIA Index - close price for the last day of the month, in points - Poland
+WIG CHEMICALS: WIG IT Index - close price for the last day of the month, in points - Poland
+
+Format: "CSV"
+
+Usage Rights: "Open source, free to use."
+
+Possible Uses: "Determining the link between the energy market and the capital market"
+
+Contact: "N/A"
+
+Additional Resources: N/A"
+
+Notes: „N/A”
