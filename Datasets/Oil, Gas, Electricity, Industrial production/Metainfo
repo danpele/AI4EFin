@@ -1,1 +1,47 @@
-Work in progress
+Dataset Name: "Oil, Gas, Electricity, Global industrial production"
+
+Description: "Data regarding Oil, Gas, Electricity, Global industrial production."
+
+Keywords: "Oil, Gas, Electricity, Industrial production"
+
+Version: "N/A"
+
+Date Created: "2023-11-30"
+
+Last Updated: "2023-11-30"
+
+Updated by: "Robet-Adrian Grecu"
+
+Source: https://www.bloomberg.com/europe (Bloomberg - for oil and gas price, both daily and monthly)
+https://www.opcom.ro/acasa/ro (OPCOM - for electricity transaction prices)
+https://www.eia.gov/international/data/world/petroleum-and-other-liquids/monthly-petroleum-and-other-liquids-production?pd=5&p=0000000000000000000000000000000000vg&u=0&f=M&v=mapbubble&a=-&i=none&vo=value&t=C&g=00000000000000000000000000000000000000000000000001&l=249-ruvvvvvfvtvnvv1vrvvvvfvvvvvvfvvvou20evvvvvvvvvvnvvvs0008&s=94694400000&e=1682899200000
+(US Energy Information Administration - for oil prodution)
+https://databank.worldbank.org/reports.aspx?source=1179&series=IPTOTSAKD# (World Bank - for global industrial production)
+
+Code: N/A"
+
+Data frequency: "Monthly - for all indicators", "Daily - for oil and gas prices" 
+
+Timeframe: "2010-1-1 : 2023-9-1"
+
+Features: "
+Data: Date of the recorded observation in format dd.mm.aaaa
+BRENT_OIL - daily data - close price of the day, USD per Barrel
+BRENT_OIL - monthly data - close price of the last day of the month, USD per Barrel
+EU Natural Gas - daily data - close price of the day, EUR/MWh
+EU Natural Gas - monthly data - close price of the last day of the month, EUR/MWh
+Oil production - monthly data - global oil production annual percentage change (change based on the same month of the previous year) 
+Global Industrial Production - monthly data - global insutrial production annual percntage change (change based on the same month of the previous year) 
+Electricity transaction price - monthly data - monthly average of the electricity transaction price in Romania, lei/MWh (price for the next day)
+
+Format: "CSV"
+
+Usage Rights: "Open source, free to use."
+
+Possible Uses: "Determining the link between the energy market and the capital market"
+
+Contact: "N/A"
+
+Additional Resources: N/A"
+
+Notes: „N/A”
