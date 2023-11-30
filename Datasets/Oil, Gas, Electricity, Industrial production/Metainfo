@@ -22,7 +22,8 @@ Code: N/A"
 
 Data frequency: "Monthly - for all indicators", "Daily - for oil and gas prices" 
 
-Timeframe: "2010-1-1 : 2023-9-1"
+Timeframe: Daily indicators "2010-1-4 : 2023-10-13"
+Monthly indicators: "2010-1-1 : 2023-4-1"
 
 Features: "
 Data: Date of the recorded observation in format dd.mm.aaaa
@@ -31,8 +32,8 @@ BRENT_OIL - monthly data - close price of the last day of the month, USD per Bar
 EU Natural Gas - daily data - close price of the day, EUR/MWh
 EU Natural Gas - monthly data - close price of the last day of the month, EUR/MWh
 Oil production - monthly data - global oil production annual percentage change (change based on the same month of the previous year) 
-Global Industrial Production - monthly data - global insutrial production annual percntage change (change based on the same month of the previous year) 
-Electricity transaction price - monthly data - monthly average of the electricity transaction price in Romania, lei/MWh (price for the next day)
+Global Industrial Production - monthly data - global insutrial production annual percentage change (change based on the same month of the previous year) 
+Electricity transaction price - monthly data - monthly average of the electricity transaction price in Romania, lei/MWh
 
 Format: "CSV"
 
