@@ -8,7 +8,7 @@ Version: "N/A"
 
 Date Created: "2023-11-29"
 
-Last Updated: "2023-11-29"
+Last Updated: "2023-11-30"
 
 Updated by: "Robet-Adrian Grecu"
 
@@ -39,8 +39,6 @@ WIG CONSTRUCTION: WIG CONSTRUCTION Index - close of the day price, in points - P
 WIG BANKS: WIG BANKS Index - close of the day price, in points - Poland
 WIG MEDIA: WIG MEDIA Index - close of the day price, in points - Poland
 WIG CHEMICALS: WIG IT Index - close of the day price, in points - Poland
-BRENT_OIL: Brent oil - close of the day price, in USD
-EU NATURAL GAS: EU NATURAL GAS - close of the day price, in EUR
 
 Format: "CSV"
 
@@ -52,4 +50,4 @@ Contact: "N/A"
 
 Additional Resources: N/A"
 
-Notes: „For some countries could be days when there was not trading activity, that’s why the data could be not available for them in those specific days.”
+Notes: „For some countries, there could be days when there was no trading activity; that’s why the data could not be available for them on those specific days.”
