@@ -18,7 +18,7 @@ Code: "https://ember-climate.org/data-catalogue/european-wholesale-electricity-p
 
 Data frequency: "Hourly"
 
-Timeframe: "Jan 2015 : Sep 2023"
+Timeframe: "Jan 2015 : Aug 2023"
 
 Features: "
 Country
