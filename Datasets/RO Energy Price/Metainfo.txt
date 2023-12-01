@@ -1,1 +1,41 @@
+Dataset Name: RO Energy Price"                     
 
+Description: "Romania hourly energy wholesale price data"
+
+Keywords: "European price", "energy price", "wholesale price", "European wholesale price" 
+
+Version: "N/A"
+
+Date Created: "2023-12-01"
+
+Last Updated: "2023-12-01"
+
+Updated by: "Alexandru-Victor Andrei"
+
+Source: "Downloaded from the Ember website"
+
+Code: "https://ember-climate.org/data-catalogue/european-wholesale-electricity-price-data/"
+
+Data frequency: "Hourly"
+
+Timeframe: "Jan 2015 : Sep 2023"
+
+Features: "
+Country
+ISO3 Code
+Datetime (UTC)
+Datetime (Local)
+Price (EUR/MWhe)
+"
+
+Format: "CSV"
+
+Usage Rights: "Open source, free to use."
+
+Possible Uses: "Statistical analysis at company level."
+
+Contact: "N/A"
+
+Additional Resources: N/A"
+
+Notes: "N/A"
