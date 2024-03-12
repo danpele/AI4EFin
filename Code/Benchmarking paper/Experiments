@@ -1,1 +1,14 @@
 Experiments for the benchmarking paper
+
+The df.csv is derived from the two French datasets:
+   Datasets/FR Energy Production
+   Datasets/FR Energy production_part2
+
+Remarks:
+- the original French production dataset has 49 MB
+- the limit for a csv file on GitHub is 25 MB
+- so I split in two the data
+- the df.csv has about 9MB (I kept the main French production variables and the French price from Entso-e
+(for more details see the code in:
+    Code/Deep Learning for Energy Forecasting/load_data_cleansing.ipynb
+)
