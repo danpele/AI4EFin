@@ -1,1 +1,13 @@
 
+Name of QuantLet : Energy_Stock_Market
+
+Published in : 
+
+Description : 'Data for the paper "The link between energy prices and stock markets in European Union countries".'
+
+Keywords : 'energy market, capital market, DCC-GARCH, TVP-VAR, Markov-Switching'
+
+Author: Daniel Traian Pele
+
+Submitted : Fri, 22 Feb 2025
+
